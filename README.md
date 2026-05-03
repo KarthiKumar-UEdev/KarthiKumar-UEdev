@@ -14,7 +14,6 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-00d9ff?style=flat-square&labelColor=0a0e1a)
-![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-60a5fa?style=flat-square&labelColor=0a0e1a)
 
 </div>
 
