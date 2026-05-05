@@ -94,7 +94,7 @@ Interactive architectural walkthrough showcasing photorealistic real-time render
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikumarchyouth-art&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=a855f7&text_color=e8edf4&border_radius=8&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikumarchyouth-dev&show_icons=true&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=a855f7&text_color=e8edf4&border_radius=8&include_all_commits=true&count_private=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikumarchyouth-art&hide_border=true&background=0a0e1a&stroke=00d9ff&ring=00d9ff&fire=a855f7&currStreakLabel=00d9ff&sideLabels=e8edf4&currStreakNum=e8edf4&dates=8a95a8&sideNums=e8edf4&border_radius=8" />
 
 </div>
