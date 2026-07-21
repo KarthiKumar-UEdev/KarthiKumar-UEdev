@@ -95,8 +95,8 @@ PC inventory management platform with an interactive 3D component viewer. Static
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KarthiKumar-UEdev&show_icons=true&hide_border=true&bg_color=00000000&title_color=1D3EEB&icon_color=1D3EEB&text_color=15171A&include_all_commits=true&count_private=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikumarchyouth-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=5B7CFF&text_color=E8EDF4">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikumarchyouth-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=1D3EEB&text_color=15171A">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiKumar-UEdev&layout=compact&hide_border=true&bg_color=00000000&title_color=5B7CFF&text_color=E8EDF4">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiKumar-UEdev&layout=compact&hide_border=true&bg_color=00000000&title_color=1D3EEB&text_color=15171A">
 </picture>
 
 </div>
