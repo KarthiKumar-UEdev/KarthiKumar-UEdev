@@ -38,7 +38,7 @@ Photorealistic interior walkthroughs with Lumen and Nanite, delivered to the bro
 
 **UE5 · Lumen · Nanite · Blueprints**
 
-[![View Project](https://img.shields.io/badge/View_Project-1D3EEB?style=flat-square&logo=github&logoColor=white)](https://github.com/karthikumarchyouth-art/Archviz-1)
+[![View Project](https://img.shields.io/badge/View_Project-1D3EEB?style=flat-square&logo=github&logoColor=white)](https://github.com/KarthiKumar-UEdev/Archviz-1)
 
 <br>
 
@@ -49,7 +49,7 @@ Real-time atmospheric system: volumetric clouds, day-night cycle, seamless weath
 
 **UE5 · Blueprints · Niagara**
 
-[![View Project](https://img.shields.io/badge/View_Project-1D3EEB?style=flat-square&logo=github&logoColor=white)](https://github.com/karthikumarchyouth-art/dynamic_sky)
+[![View Project](https://img.shields.io/badge/View_Project-1D3EEB?style=flat-square&logo=github&logoColor=white)](https://github.com/KarthiKumar-UEdev/dynamic_sky)
 
 <br>
 
@@ -59,6 +59,8 @@ Real-time atmospheric system: volumetric clouds, day-night cycle, seamless weath
 PC inventory management platform with an interactive 3D component viewer. Static-exported Next.js frontend, FastAPI backend, MySQL, deployed on shared hosting with cron-based warranty emails.
 
 **Next.js 15 · FastAPI · MySQL · React Three Fiber**
+
+[![View Project](https://img.shields.io/badge/View_Project-1D3EEB?style=flat-square&logo=github&logoColor=white)](https://github.com/KarthiKumar-UEdev/PC-vault)
 
 ---
 
